@@ -31,5 +31,6 @@ public class Zmienne {
         boolean twierdzenie = true; // false
 
 
+        // https://github.com/przemjan/czwartadgr12023
     }
 }
